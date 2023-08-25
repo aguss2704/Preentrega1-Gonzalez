@@ -1,0 +1,9 @@
+ul{
+    display: flex;
+    gap: 23px;
+   background-color: pink;
+   padding: 10px;
+}
+.navbar-logo{
+    margin-left: 1100px;
+}
